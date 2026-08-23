@@ -1,5 +1,7 @@
 # Ted Lasso Theme for Omarchy
 
+![Believe wallpaper](backgrounds/believe-wall.png)
+
 A warm, navy-and-gold [Omarchy](https://omarchy.org/) theme inspired by AFC Richmond and the "BELIEVE" sign — dark background, gold accents, and three matching wallpapers.
 
 ## Install
